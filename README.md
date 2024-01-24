@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SpectreKitty
-- 👀 I’m interested in ... gaming
-- 🌱 I’m currently learning ... some coding
-- 💞️ I’m looking to collaborate on ...  learning projects
+- 👀 I’m interested in ... gaming, reading, learning and coding.
+- 🌱 I’m currently learning ... React
+- 💞️ I’m looking to collaborate on ...  coding projects and web development
 - 📫 How to reach me ... email
 
 <!---
