@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpectreKitty
+- 👋 Hi, I’m Astry
 - 👀 I’m interested in ... gaming, reading, learning and coding.
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ...  coding projects and web development
