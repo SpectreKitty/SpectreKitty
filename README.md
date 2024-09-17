@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Astry
 - 👀 I’m interested in ... gaming, reading, learning and coding.
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...  coding projects and web development
 - 📫 How to reach me ... email
 
